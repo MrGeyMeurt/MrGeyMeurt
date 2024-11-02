@@ -1,9 +1,8 @@
 # 👋Les bon !
-- 🗿 Hi, I’m @MrGeyMeurt
-- 👀 I’m interested in Space, Tech and Gaming
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on cool projet
-- 📫 How to reach me ? you don't
+- 🗿 Hi, I’m Manu
+- 👀 I’m interested in Web design, Web development but also Space, Videography and Video Games
+- 🌱 I'm currently learning front-end development with **React**, back-end with **TypeScript** and game development with **C#**.
+- 📫 How to reach me ? *feature coming soon*
 - ⚡ Fun fact: I'm French but I don't eat any cheese
 
 
