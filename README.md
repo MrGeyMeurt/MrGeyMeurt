@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on simple but cool projet
 - 📫 How to reach me ? you don't
-- ⚡ Fun fact: I'm French but I don't like cheese
+- ⚡ Fun fact: I'm French but I don't eat any cheese
 
 
 # 💻 Tech Stack:
