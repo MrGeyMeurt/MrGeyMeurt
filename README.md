@@ -2,7 +2,7 @@
 - 🗿 Hi, I’m @MrGeyMeurt
 - 👀 I’m interested in Space, Tech and Gaming
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on simple but cool projet
+- 💞️ I’m looking to collaborate on cool projet
 - 📫 How to reach me ? you don't
 - ⚡ Fun fact: I'm French but I don't eat any cheese
 
