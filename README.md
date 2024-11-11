@@ -1,8 +1,8 @@
 ## 👋Les bon !
 - 🗿 Hi, I’m Manu
 - 👀 I’m interested in Web design, Web development but also Space, Videography and Video Games
-- 🌱 I'm currently learning front-end development with **React**, back-end with **TypeScript** and game development with **C#**.
-- 📫 How to reach me ? *feature coming soon*
+- 🌱 I'm currently working on [react_snake](https://github.com/MrGeyMeurt/react_snake) and [unity_game](https://github.com/MrGeyMeurt/unity_game)
+- 📫 How to reach me ? [manu.teao.pro@gmail.com](mailto:manu.teao.pro@gmail.com)
 - ⚡ Fun fact: I'm French but I don't eat any cheese
 
 
