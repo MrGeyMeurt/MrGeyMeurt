@@ -1,6 +1,5 @@
 ## 👋Les bon !
 - 🌱 Currently working on [unity_game](https://github.com/MrGeyMeurt/unity_game)
-- 📫 How to reach me ? [manu.teao.pro@gmail.com](mailto:manu.teao.pro@gmail.com)
 - ⚡ Fun fact: I'm French but I don't eat any cheese
 
 
